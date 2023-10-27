@@ -693,6 +693,7 @@ skip_sysfs_create:
 		scm_disable_sdi();
 
 	force_warm_reboot = true;
+						
 
 	return 0;
 
